@@ -159,7 +159,7 @@ function Rating({ props }) {
                                 <td>{Ratingtable.MaxUp}</td>
                             </tr>
                             <tr>
-                                <td>Min Up</td>
+                                <td>Max Down</td>
                                 <td>{Ratingtable.Minup}</td>
                             </tr>
                         </tbody>

@@ -101,7 +101,7 @@ function ProblemTag({ props }) {
     }
     return (
         <div className="DoughNaut">
-            <h3>Problems based on Labs</h3>
+            <h3>Problems based on Tags</h3>
             <Doughnut data={data} options={options} />
         </div>
     )
