@@ -4,36 +4,43 @@ Codeforces Visualizer is a web app created for competitve coding enthusiast to t
 
 ## Usage
 
-Handle Information
+### Handle Information
 
 ![](images/Handlownerinfo.png)
 
-Rating Chart And table
+### Rating Chart And table
 
-![](images/rating.png)
+![](images/Rating.png)
 
-![](images/ratingtable.png)
+![](images/Ratingtable.png)
 
-Bar Graph of Number of Problem solved based on Level
+### Bar Graph of Number of Problem solved based on Level
 
 ![](images/Problemlevel.png)
 
-Bar Graph of Number of Problem solved based on Rating
+### Bar Graph of Number of Problem solved based on Rating
 
 ![](images/problemrating.png)
 
-Doughnaut chart on Problem Solved based on Tags
+### Doughnaut chart on Problem Solved based on Tags
 
 ![](images/ProblemTag.png)
 
-Piechart on Programming Languages Used and Overall Verdict on Problems
+### Piechart on Programming Languages Used and Overall Verdict on Problems
 
 ![](images/ProblemLangauges.png)
 
 ![](images/ProblemsVerdict.png)
 
 
+## Upcoming Features
 
+1. Heatmap 
+2. List of Upcoming contest on codeforces
+3. World map representing number of different users from parts of the world
+
+
+### Thank you 
 
 
 
