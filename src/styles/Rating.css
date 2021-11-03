@@ -1,0 +1,33 @@
+
+*{
+    box-sizing:  border-box;
+  }
+  
+  body,html{
+    background-color: rgb(237, 240, 243);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  .RatingChart {
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+
+
+  .Rating{
+    display: flex;
+    flex-direction: column;
+  }
