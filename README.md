@@ -33,14 +33,6 @@ Codeforces Visualizer is a web app created for competitve coding enthusiast to t
 ![](images/ProblemsVerdict.png)
 
 
-## Upcoming Features
-
-1. Heatmap 
-2. List of Upcoming contest on codeforces
-3. World map representing number of different users from parts of the world
-
-
-### Thank you 
 
 
 
